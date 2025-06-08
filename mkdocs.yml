@@ -1,12 +1,12 @@
 # Header 
-site_name: MKDocs Material Template
-site_description: MkDocs Material Templates
-site_author: Tyson Lee Swetnam
-site_url: https://tyson-swetnam.github.io/mkdocs-material-template/
+site_name: KEYS 2025 Research Internship
+site_description: Saish Swamidurai's KEYS 2025 Research Internship
+site_author: Saish Swamidurai
+site_url: https://github.com/saishsw/KEYS-2025/
 
 # Footer
-repo_name: mkdocs-material-template
-repo_url: https://github.com/tyson-swetnam/mkdocs-material-template
+repo_name: KEYS-2025
+repo_url: https://github.com/saishsw/KEYS-2025/
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 Arizona Board of Regents'
