@@ -29,6 +29,7 @@ nav:
     - Documentation: references.md
   - Documentation:
     - Prompt Engineering: promptengineering.md
+      - Prompt Engineering Examples: promptengineeringexamples.md
 
 # Configuration
 theme:
