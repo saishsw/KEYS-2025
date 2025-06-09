@@ -13,5 +13,5 @@
 ## KEYS Internship
 
 ### 6/9/2025
-downloaded cline, connected github copolit, generated a UofA Gemini API to use
+downloaded cline, connected github copolit, generated a UofA Gemini API to use - obstacle, unable to create folder, finished assignment #1: x and x. Studied prompt engineering - example prompts.
 
