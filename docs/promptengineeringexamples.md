@@ -22,7 +22,7 @@ Note: These examples are using Google Gemini 2.5 Flash
 >
 **User Prompt:**
 >
-> what is the first step I should take - explain concisely.
+> what is the first step I should take - explain concisely, number your points.
 >
 **Response:**
 >
@@ -30,14 +30,26 @@ Note: These examples are using Google Gemini 2.5 Flash
 > 
 > This involves:
 > 
-> Clearly defining the dashboard's objectives and how researchers will use it.
-> Identifying the specific types of "noise" in your data.
-> Understanding the data sources, volume, and update frequency.
-> Envisioning how LLMs will enhance data interaction.
+> 1. Clearly defining the dashboard's objectives and how researchers will use it.
+> 2. Identifying the specific types of "noise" in your data.
+> 3. Understanding the data sources, volume, and update frequency.
+> 4. Envisioning how LLMs will enhance data interaction.
 > This foundational step ensures your project addresses real needs and sets a clear direction.
 **User Follow-up**
+>
 > In a short list, what types of noise can be found in data?
 > 
 **Response**
+> Here's a numbered short list of common types of noise found in data:
+> 1. Missing Values: Absence of data where it's expected.
+> 2. Outliers: Data points significantly different from the rest.
+> 3. Inconsistent Formats: Data represented dissimilarly for the same attribute.
+> 4. Measurement Errors: Inaccuracies from data collection.
+> 5. Duplicate Records: Redundant entries for the same entity.
+> 6. Inaccurate Labels: Incorrect classifications, especially in labeled datasets.
+> 7. Typographical Errors: Simple data entry mistakes.
+> 8. Irrelevant Features: Attributes that don't add value to analysis.
+> 9. Inconsistent Units: Values using different measurement units.
+> 10. Stale Data: Outdated or no longer relevant information.
 
 
