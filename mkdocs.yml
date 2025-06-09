@@ -28,7 +28,7 @@ nav:
     - Acknowledgments: acknowledgments.md
     - Documentation: references.md
   - Documentation:
-    - Prompt Engineering: promptengineering.md
+    - Prompt Engineering:
       - Prompt Engineering Examples: promptengineeringexamples.md
 
 # Configuration
