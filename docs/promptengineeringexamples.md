@@ -115,6 +115,7 @@ Note: These examples are using Google Gemini 2.5 Flash
 > - Two pair (KJ, KT, J2, T2)
 > - Overpair (AA, KK, QQ)
 > - A strong draw (e.g., Axs for a flush, or a higher straight draw like AQ if they have Acs)
+> 
 > Let's assume the following for a simplified EV calculation:
 >
 > - Pot after your call: $30 (initial pot) + $15 (opponent's bet) + $15 (your call) = $60
@@ -122,6 +123,7 @@ Note: These examples are using Google Gemini 2.5 Flash
 > - Implied Odds: With your stack being $100 and the pot growing, you have decent implied odds if you hit. Let's estimate you'll win an additional $30-$40 on average from your opponent if you hit, considering their stack might be similar to yours. So, a total win of approximately $90-$100 if you hit.
 > - Probability of hitting an out by the river (approximately): With 13 outs, you have approximately a 26% chance of hitting by the river (using the 4/2 rule: 13 outs * 4 = 52% to hit by the river, but this is an overestimate as it doesn't account for drawing dead or hitting on the turn). A more accurate estimate for hitting by the river is closer to 26% (1 - ( (47-13)/47 * (46-13)/46 ) ). Let's use 26% for a rough estimate.
 > - Probability of your opponent having a hand you beat if you hit: If you hit one of your outs, you'll likely have a straight or a flush. Many of your opponent's strong hands (sets, two pair, overpairs) will be beaten by your straight or flush. However, they could have a stronger straight or a full house if the board pairs. Let's assume you win 70% of the time you hit an out that completes your hand.
+> 
 > Estimated EV Calculation:
 >
 > EV = (Probability of Winning) * (Amount Won) - (Probability of Losing) * (Amount Lost)
