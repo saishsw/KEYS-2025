@@ -115,7 +115,7 @@ Note: These examples are using Google Gemini 2.5 Flash
 > - Two pair (KJ, KT, J2, T2)
 > - Overpair (AA, KK, QQ)
 > - A strong draw (e.g., Axs for a flush, or a higher straight draw like AQ if they have Acs)
->Let's assume the following for a simplified EV calculation:
+> Let's assume the following for a simplified EV calculation:
 >
 > - Pot after your call: $30 (initial pot) + $15 (opponent's bet) + $15 (your call) = $60
 > - Your investment to call: $15
