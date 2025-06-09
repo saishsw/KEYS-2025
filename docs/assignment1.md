@@ -1,5 +1,3 @@
 ## Assignment 1: Internship Description 
 
-### Project Description
-
-[Project Description here]
+I am Saish Swamidurai and my Principle Investigator(PI) is Dr. Nirav Merchant. I am working under him to create an AI based open-source data organization platform for researchers. My work specifically will be around creating reproducible dashboards for noisy datasets - the dashboard should be able to recognize the type of data and return the relevant statistics while also visualizing it in an aesthetic manner. The purpose of this research is to streamline data organization so that researchers around the world have a standardized platform to analyze data in a variety of ways without having to create the code themselves and use multiple disorganized platforms. After creating the dashboard and visualization process, I will also be integrating Large Language Models(LLMs) to help researchers to interact with the data by asking the dashboard to perform actions like change visualization, return specific statistics, etc.
