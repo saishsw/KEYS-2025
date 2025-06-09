@@ -13,4 +13,5 @@
 ## KEYS Internship
 
 ### 6/9/2025
+downloaded cline, connected github copolit, generated a UofA Gemini API to use
 
