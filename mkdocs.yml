@@ -27,8 +27,7 @@ nav:
     - Assignment 6: assignment6.md
     - Acknowledgments: acknowledgments.md
     - Documentation: references.md
-  - Resources:
-    - GitHub: github.md
+  - Documentation:
     - Prompt Engineering: promptengineering.md
 
 # Configuration
