@@ -13,5 +13,7 @@
 ## KEYS Internship
 
 ### 6/9/2025
-downloaded cline, connected github copolit, generated a UofA Gemini API to use - obstacle, unable to create folder, finished assignment #1: x and x. Studied prompt engineering - example prompts.
+Today, I downloaded Cline - an AI Autonomous Coding Agent for Visual Studio Code, and encountered a roadblock when trying to generate a Google Gemini API to use in Cline. It was fixed by [x]. Then set up Github Copilot on VS Code as well as turning on MCP(Model Context Protocol) integration into VS Code.
+finished assignment #1: x and x. 
+Studied prompt engineering - example prompts.
 
