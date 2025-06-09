@@ -35,6 +35,7 @@ Note: These examples are using Google Gemini 2.5 Flash
 > 3. Understanding the data sources, volume, and update frequency.
 > 4. Envisioning how LLMs will enhance data interaction.
 > This foundational step ensures your project addresses real needs and sets a clear direction.
+>
 **User Follow-up**
 >
 > In a short list, what types of noise can be found in data?
