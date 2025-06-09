@@ -13,7 +13,5 @@
 ## KEYS Internship
 
 ### 6/9/2025
-Today, I downloaded Cline - an AI Autonomous Coding Agent for Visual Studio Code, and encountered a roadblock when trying to generate a Google Gemini API to use in Cline. It was fixed by [x]. Then set up Github Copilot on VS Code as well as turning on MCP(Model Context Protocol) integration into VS Code.
-finished assignment #1: x and x. 
-Studied prompt engineering - example prompts.
+Today, I downloaded Cline - an AI Autonomous Coding Agent for Visual Studio Code, and encountered a roadblock when trying to generate a Google Gemini API to use in Cline. It was fixed by [x]. Then set up Github Copilot on VS Code as well as turning on MCP(Model Context Protocol) integration into VS Code. I followed this with completing KEYS Assignment 1: Internship Description.
 
