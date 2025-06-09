@@ -66,10 +66,10 @@ Note: These examples are using Google Gemini 2.5 Flash
 > connectors 9 or above. What should I do? 
 > 
 > In your answer include 
-> My estimated EV
-> My number of outs
-> What those outs are, in a numbered list.
-> If I should reraise, call, fold
+> 1. My estimated EV
+> 2. My number of outs
+> 3. What those outs are, in a numbered list.
+> 4. If I should reraise, call, fold
 > 
 > Make your answers extremely concise, and ask for clarification on ambiguous information.
 
