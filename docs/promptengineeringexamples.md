@@ -20,13 +20,13 @@ Note: These examples are using Google Gemini 2.5 Flash
 > 4. Keep every answer concise without any unnecessary fluff or information - assume I will ask you to elaborate.
 >
 > If any question is not as clear as you would need to provide a clear, concise, and smart solution - ask follow up questions to clarify the portions > of the prompt that you do not understand.
->
+
 **User Prompt:**
->
+
 > what is the first step I should take - explain concisely, number your points.
->
+
 **Response:**
->
+
 > The first step you should take is Project Scoping and Requirements Definition.
 > 
 > This involves:
@@ -36,12 +36,13 @@ Note: These examples are using Google Gemini 2.5 Flash
 > 3. Understanding the data sources, volume, and update frequency.
 > 4. Envisioning how LLMs will enhance data interaction.
 > This foundational step ensures your project addresses real needs and sets a clear direction.
->
-**User Follow-up: **
->
+
+**User Follow-up:**
+
 > In a short list, what types of noise can be found in data?
-> 
+
 **Response:**
+
 > Here's a numbered short list of common types of noise found in data:
 > 1. Missing Values: Absence of data where it's expected.
 > 2. Outliers: Data points significantly different from the rest.
