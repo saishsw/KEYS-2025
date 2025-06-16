@@ -20,8 +20,6 @@ Hypothesis 0: Creating reproducible LLM-integrated dashboards will increase the 
 
 #### References
 
-References:
-
 posit-dev. (2025). GitHub - posit-dev/querychat. GitHub. [https://github.com/posit-dev/querychat/?tab=readme-ov-file](https://github.com/posit-dev/querychat/?tab=readme-ov-file)
 Home | The Arizona Voter Project. (2024). The Arizona Voter Project. [https://voterproject.arizona.edu/](https://github.com/posit-dev/querychat/?tab=readme-ov-file)
 
