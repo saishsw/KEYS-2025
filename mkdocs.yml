@@ -30,6 +30,8 @@ nav:
   - Documentation:
     - Prompt Engineering:
       - Prompt Engineering Examples: promptengineeringexamples.md
+    - Vibe Coding: 
+      - Vibe Coding Example: vibecoding.md
 
 # Configuration
 theme:
