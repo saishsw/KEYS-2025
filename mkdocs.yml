@@ -28,10 +28,10 @@ nav:
     - Acknowledgments: acknowledgments.md
     - Documentation: references.md
   - Documentation:
+    - Vibe Coding:
+      - Vibe Coding Examples: vibecoding.md
     - Prompt Engineering:
       - Prompt Engineering Examples: promptengineeringexamples.md
-    - Vibe Coding: 
-      - Vibe Coding Example: vibecoding.md
 
 # Configuration
 theme:
