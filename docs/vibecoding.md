@@ -4,6 +4,6 @@ Note: This was created using the instructions in Dr. Swetnam's [MapMaking 101](h
 ---
 ## London Public Health Data Map
 
-<!-- <iframe src="https://chat-qa.cyverse.org/" width="100%" height="500"></iframe> -->
+<!-- <iframe src="[https://saishsw.github.io/London-Public-Health-Map/" width="100%" height="500"></iframe> -->
 
-<iframe src="https://chat-qa.cyverse.org/chatbot1/" width="100%" height="700"></iframe>
+<iframe src="https://saishsw.github.io/London-Public-Health-Map/" width="100%" height="700"></iframe>
