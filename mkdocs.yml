@@ -32,7 +32,8 @@ nav:
       - Prompt Engineering Examples: promptengineeringexamples.md
     - Vibe Coding:
       - Vibe Coding Examples: vibecoding.md
-
+    - Extracting Schema :
+      - Extracting Schema Commenting Practice: schemapractice.md 
 # Configuration
 theme:
   name: 'material'
