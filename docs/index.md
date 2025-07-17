@@ -16,7 +16,7 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 
 ### Main Project
 
-[About your project]
+[[About your project]](https://github.com/saishsw/Converse-With-Your-Data)
 
 ### Results
 
